@@ -1,0 +1,11 @@
+as_of: 2026-03-09
+counts:
+  accepted: 2
+  major_revision: 4
+  minor_revision: 3
+  rejected: 1
+  under_review: 1
+  withdrawn: 1
+overdue:
+  - TALS-26-002
+  - TALS-26-011
